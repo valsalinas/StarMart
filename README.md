@@ -1,7 +1,7 @@
 # Overview
 StarMart3 is an Android application designed to enhance the shopping experience by allowing users to select items based on different seasons and compile a shopping list. This application features a user-friendly interface with interactive buttons and media playback for an engaging user experience.
 
-## Created By: Joey Jimenez, Derick Gomez and Valerie Salinas
+## Created By: Valerie Salinas, Derick Gomez, Joey Jimenez
 
 # Features
 Welcome Screen: The main entry point of the application that navigates users to the season selection screen.
