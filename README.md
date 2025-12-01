@@ -85,7 +85,7 @@ Utility class for reading and parsing CSV files.
 
 Provides methods to read season and item data from CSV files in the assets folder.
 
-**#SCREENSHOTS OF PROTOTYPE**
+## Screenshots of Prototype
 
 <img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/657b49a0-c839-4eed-b5fb-15c0074b79fb" />
 <img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/4da1789e-6567-494f-bdc8-744d5bb18c41" />
@@ -93,10 +93,10 @@ Provides methods to read season and item data from CSV files in the assets folde
 <img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/e4f4398b-2825-4504-afac-63e6b34f2e52" />
 
 
-**##ADOBE XD LINK TO VIEW PROTOTYPE**
+## Adobe XD to View Prototype
 
 https://xd.adobe.com/view/4f272917-c4fd-4930-bc74-233e0db32aad-1a74/
 
-**##DEMO OF APP VIA YOUTUBE**
+## Demo Video of App 
 
 https://www.youtube.com/watch?v=Wi1cxbDjvnQ
