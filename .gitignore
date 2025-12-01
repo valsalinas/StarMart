@@ -1,0 +1,27 @@
+# IDE / project files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build / output directories
+build/
+out/
+.gradle/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache (if any Python scripts are included)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sensitive files
+config.py

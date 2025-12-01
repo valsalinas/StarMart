@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">starmart3</string>
+    <string name="fall_season">fall_stock</string>
+    <string name="spring_season">spring_season</string>
+    <string name="summer_season">summer_stock</string>
+    <string name="year_round_season">yearround_stock</string>
+    <string name="blue_junimo">Blue Junimo</string>
+    <string name="yellow_junimo">Yellow Junimo</string>
+    <string name="tan_jumino">Tan Jumino</string>
+    <string name="select_a_season_category_button">Select a season/category button</string>
+    <string name="add_to_shopping_list_button">Add To Shopping List Button</string>
+    <string name="tap_image_desc">Tap Image Desc</string>
+    <string name="quant_increase">Quant Increase</string>
+    <string name="quant_decrease">Quant Decrease</string>
+</resources>
