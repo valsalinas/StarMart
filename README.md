@@ -87,10 +87,10 @@ Provides methods to read season and item data from CSV files in the assets folde
 
 ## Screenshots of Prototype
 
-<img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/657b49a0-c839-4eed-b5fb-15c0074b79fb" />
-<img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/4da1789e-6567-494f-bdc8-744d5bb18c41" />
-<img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/569c6ef6-6e1d-4df2-884e-0dbfa5216c32" />
-<img width="246" height="536" alt="image" src="https://github.com/user-attachments/assets/e4f4398b-2825-4504-afac-63e6b34f2e52" />
+<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/657b49a0-c839-4eed-b5fb-15c0074b79fb" />
+<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/4da1789e-6567-494f-bdc8-744d5bb18c41" />
+<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/569c6ef6-6e1d-4df2-884e-0dbfa5216c32" />
+<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/e4f4398b-2825-4504-afac-63e6b34f2e52" />
 
 
 ## Adobe XD to View Prototype
