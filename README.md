@@ -67,13 +67,13 @@ Utility class to read CSV files from assets.
 Parses season and item data for use in activities.
 
 ## Project Goals
-Provide an easy to-use mobile companion for Stardew Valley.
+Provide an easy to use mobile companion for Stardew Valley.
 Help players identify the best items to buy by season.
 Offer item details, including planting tips, prices, and descriptions.
 Allow users to create a shopping list with total cost for planning.
 
 ## Real Life Application
-StarMart3 improves in-game efficiency:
+StarMart3 improves in game efficiency:
 - Players can quickly check if crops grow in the current season.
 - Helps plan purchases without unnecessary trips to the in-game General Store.
 - Allows estimating total gold needed for items.
@@ -87,10 +87,10 @@ Provides methods to read season and item data from CSV files in the assets folde
 
 ## Screenshots of Prototype
 
-<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/657b49a0-c839-4eed-b5fb-15c0074b79fb" />
-<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/4da1789e-6567-494f-bdc8-744d5bb18c41" />
-<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/569c6ef6-6e1d-4df2-884e-0dbfa5216c32" />
-<img width="225" height="515" alt="image" src="https://github.com/user-attachments/assets/e4f4398b-2825-4504-afac-63e6b34f2e52" />
+<img width="200" height="490" alt="image" src="https://github.com/user-attachments/assets/657b49a0-c839-4eed-b5fb-15c0074b79fb" />
+<img width="200" height="490" alt="image" src="https://github.com/user-attachments/assets/4da1789e-6567-494f-bdc8-744d5bb18c41" />
+<img width="200" height="490" alt="image" src="https://github.com/user-attachments/assets/569c6ef6-6e1d-4df2-884e-0dbfa5216c32" />
+<img width="200" height="490" alt="image" src="https://github.com/user-attachments/assets/e4f4398b-2825-4504-afac-63e6b34f2e52" />
 
 
 ## Adobe XD to View Prototype
