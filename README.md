@@ -1,9 +1,9 @@
 # Overview
-StarMart3 allows players to select in game items based on seasons, access detailed descriptions, and compile a shopping list for planning purchases. The app provides a user friendly, interactive interface with media effects inspired by Stardew Valley.
+StarMart allows players to select in game items based on seasons, access detailed descriptions, and compile a shopping list for planning purchases. The app provides a user friendly, interactive interface with media effects inspired by Stardew Valley.
 
 ## Created By: Valerie Salinas and Derick Gomez
 
-The goal of StarMart3 is to provide players with a quick and easy way to access item information in Stardew Valley. Players can identify the best items to purchase for each season, understand how to use them effectively, and manage a shopping list with total cost calculations. 
+The goal of StarMart is to provide players with a quick and easy way to access item information in Stardew Valley. Players can identify the best items to purchase for each season, understand how to use them effectively, and manage a shopping list with total cost calculations. 
 For example: Potato Seeds – "Plant in spring. Takes 6 days to mature and may yield multiple potatoes at harvest."
 The app also encourages planning in-game purchases without interrupting gameplay.
 
